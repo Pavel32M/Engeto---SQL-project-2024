@@ -1,0 +1,27 @@
+Datová akademie Engeto, 26.9. 2024
+
+Popis projektu PowerBI_Pavel Mokrejš
+
+Datová sada: použita stejná, jako pro SQL projekt v rámci Datové akademie. 
+
+Report ukazuje základní charakteristiky cen a mezd v ČR v letech 2006 - 2018.
+
+První strana ukazuje vývoje mezd v čase a současně pro každý rok zobrazuje základní údaje:
+nejnižší mzdu, nejvyšší mzdu, mediánovou mzdu a průměrnou mzdu.
+
+Druhá strana ukazuje vývoj ceny spotřebního koše potravin.
+Byla zde vytvořena míra, která ukazuje poměr mezi cenou spotřebního koše a průměrnou mzdou v daném roce.
+Tato míra charakterizuje relativní dostupnost či "drahotu" potravin ve srovnání s průměrnou mzdou.
+Nejnižší a nejvyšší hodnota byly barevně označeny pomocí podmíněného formátování s využitím vypočteného sloupce.
+
+Třetí strana ukazuje podrobný vývoj mezd v letech 2006 - 2018.
+V tomto podrobném zobrazení lze vybírat jednotlivé roky, kvartály a obory podle zájmu uživatele.
+Lze vybírat více položek z každého průřezu a tak vizualizovat právě takovou skupinu údajů, která je pro uživatele důležitá.
+Záložka "zobrazit všechna data" slouží pro snadné zrušení použitých filtrů a zobrazení všech dat.
+
+Děkuji
+P.M.
+
+
+ 
+
